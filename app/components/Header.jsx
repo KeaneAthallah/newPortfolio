@@ -60,7 +60,7 @@ function Header() {
           initial={{ y: 30, opacity: 0 }}
           whileInView={{ y: 0, opacity: 1 }}
           transition={{ duration: 0.6, delay: 1 }}
-          href={"/assets/public/sample-resume.pdf"}
+          href={"resume_fullstack_developer.pdf"}
           download={true}
           className="px-10 py-3 border rounded-full flex items-center gap-2 border-gray-700 bg-[#eceff4] dark:text-black dark:bg-[#d08770]"
         >
