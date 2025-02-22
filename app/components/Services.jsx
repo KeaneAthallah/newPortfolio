@@ -69,19 +69,6 @@ function Services() {
             <p className="text-sm text-gray-600 dark:text-gray-400 leading-relaxed mb-4">
               {description}
             </p>
-
-            {/* Read More Link */}
-            <Link
-              href={link}
-              className="flex items-center justify-center gap-2 text-sm font-medium text-blue-600 dark:text-blue-400 hover:text-blue-700 dark:hover:text-blue-300 transition-colors duration-300"
-            >
-              Read More
-              <Image
-                src={isDarkMode ? assets.right_arrow_white : assets.right_arrow}
-                alt="Arrow Icon"
-                className="w-4 h-4"
-              />
-            </Link>
           </motion.div>
         ))}
       </motion.div>
