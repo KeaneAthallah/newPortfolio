@@ -160,9 +160,9 @@ export const workData = [
   {
     company:
       "Dinas Bina Marga dan Penataan Ruang Provinsi | Palu, Sulawesi Tengah",
-    title: " Simeja - A Comprehensive Time Off Management System",
+    title: " Simeja - A Comprehensive Reporting Platform for Road Damage Complaints",
     description:
-      "Developed Simeja - A Comprehensive Time Off Management System for public reporting of road damage complaints and streamlined field survey data processing.",
+      "Developed Simeja - A Comprehensive reporting platform for public reporting of road damage complaints and streamlined field survey data processing.",
     achievements:
       "Streamlined public reporting and field data processing, improving reporting accuracy and enabling faster analysis.",
     techStack: ["Laravel", "Tailwind CSS", "MySQL"],
